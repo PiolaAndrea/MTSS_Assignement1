@@ -1,7 +1,8 @@
 2068240 <br>
 2068241 <br>
 
-[processori](/processori.md) <br>
-[schede_madri](/schede_madri.md)
+### Componenti ###
+[processori](/componenti/processori.md) <br>
+[schede_madri](/componenti/schede_madri.md)
 
 

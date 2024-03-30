@@ -2,6 +2,6 @@
 2068241 <br>
 
 [processori](/processori.md) <br>
-[schede_madri](/schede_madri.md)
+[schede_madri](/schede_madri.md) <br>
 
-
+Elettronica Padovana

@@ -5,4 +5,4 @@
 [processori](/componenti/processori.md) <br>
 [schede_madri](/componenti/schede_madri.md)
 
-
+Elettronica Padovana
